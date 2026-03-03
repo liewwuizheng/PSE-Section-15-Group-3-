@@ -12,10 +12,6 @@ To implement the system's basic functions, the following high-priority basic fun
 - [x] **Doctor View:** Display of doctors' daily schedules.
 
 ## Challenges and Solutions
-The initial user interface layout needs to be redesigned to improve the user experience.
 
-Some input validation rules need debugging.
-
-Time estimates for some tasks are slightly inaccurate.
 
 ## Retrospective
