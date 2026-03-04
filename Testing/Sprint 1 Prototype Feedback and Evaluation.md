@@ -17,7 +17,7 @@ The primary goal was to validate the "Happy Path" for three distinct user archet
 * **Disadvantages:** Text readability in the appointment blocks was too small.
 * **Improvements:** Increased font size/contrast.
 
-### Hospital Administrative Staff##
+### Hospital Administrative Staff Module
 * **Advantages:** The table layout is highly efficient, clearly displaying patient, date, time, and status information in a single line for easy browsing.
 * **Disadvantages:** All statuses (Approved, Rejected, Pending) use the same black italic font, making them difficult to distinguish. The "Sync/Refresh" icon is ambiguous.
 * **Improvements:** Color coding has been introduced (green for approved, red for rejected), and a "Search" bar has been added for quick access to specific patients, such as "Jerry Nelson".
