@@ -1,4 +1,4 @@
-# Sprint 2: System Foundation
+# Sprint 2: Medication Tracking and Digital Prescriptions
 * **Duration:** Week 3
 * **Goal:** Implement hospital data management, medication adherence tracking, and administrative reporting.
 
